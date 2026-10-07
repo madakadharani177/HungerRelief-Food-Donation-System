@@ -1,0 +1,24 @@
+# React
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# Spring Boot
+hungerrelief/target/
+
+# Eclipse
+hungerrelief/.classpath
+hungerrelief/.project
+hungerrelief/.settings/
+
+# Secrets
+hungerrelief/src/main/resources/application.properties
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
